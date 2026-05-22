@@ -1,4 +1,4 @@
-# 张鑫旭真人倒膜
+# 张鑫旭真人倒模 skill
 
 [![skills.sh](https://skills.sh/penjj/zhangxingxu-skill/badge)](https://skills.sh/penjj/zhangxingxu-skill)
 
