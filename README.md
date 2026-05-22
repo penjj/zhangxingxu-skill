@@ -1,5 +1,7 @@
 # 张鑫旭真人倒膜
 
+[![skills.sh](https://skills.sh/penjj/zhangxingxu-skill/badge)](https://skills.sh/penjj/zhangxingxu-skill)
+
 > 让 AI 写出"老工程师半夜写博客"那种味道的中文技术文章。
 
 这是一个 [Claude Code](https://claude.ai/code) 技能（Skill），用于将 AI 的输出风格转化为**张鑫旭式中文技术博客**风格——强调真实工程师思维流、论坛时代技术博客气质、陪聊式表达、情景复现、自然碎念、渐进推导与生活化比喻。
